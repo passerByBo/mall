@@ -1,0 +1,28 @@
+/**app.wxss**/
+@import 'weui/weui.wxss';
+
+.swiper-container .swiper-main {
+  width: 750rpx;
+  height: 375rpx;
+}
+
+.swiper-container .swiper-main image {
+  width: 750rpx;
+  height: 375rpx;
+}
+
+.space {
+  height: 20rpx;
+  background-color: #F2f2f2;
+}
+
+
+
+
+
+
+
+
+
+
+
